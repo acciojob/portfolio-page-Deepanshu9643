@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.profile{
+	display:flex;
+}
+
+.pic{
+	height:10rem;
+}
